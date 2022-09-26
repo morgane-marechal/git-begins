@@ -1,0 +1,4 @@
+git clone https://github.com/morgane-marechal/commands-git.txt
+git add commands-git.txt
+git commit “écrire quelque chose”
+git push origin main
