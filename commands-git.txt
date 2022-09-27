@@ -1,3 +1,5 @@
+Ecrire des choses randoms comme c'est écrit sur la consigne.
+Bla bla bla
 git clone https://github.com/morgane-marechal/commands-git.txt
 git add commands-git.txt
 git commit “écrire quelque chose”
